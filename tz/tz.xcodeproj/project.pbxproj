@@ -13,6 +13,7 @@
 		B31B16611FE6A8FA00912CA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B31B16601FE6A8FA00912CA3 /* Assets.xcassets */; };
 		B31B16641FE6A8FA00912CA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B31B16621FE6A8FA00912CA3 /* LaunchScreen.storyboard */; };
 		B31B16671FE6A8FA00912CA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B16661FE6A8FA00912CA3 /* main.m */; };
+		B31B166F1FE6AB8F00912CA3 /* test1.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B166E1FE6AB8F00912CA3 /* test1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		B31B16631FE6A8FA00912CA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B31B16651FE6A8FA00912CA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B31B16661FE6A8FA00912CA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B31B166D1FE6AB8F00912CA3 /* test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test1.h; sourceTree = "<group>"; };
+		B31B166E1FE6AB8F00912CA3 /* test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				B31B16581FE6A8FA00912CA3 /* AppDelegate.m */,
 				B31B165A1FE6A8FA00912CA3 /* ViewController.h */,
 				B31B165B1FE6A8FA00912CA3 /* ViewController.m */,
+				B31B166D1FE6AB8F00912CA3 /* test1.h */,
+				B31B166E1FE6AB8F00912CA3 /* test1.m */,
 				B31B165D1FE6A8FA00912CA3 /* Main.storyboard */,
 				B31B16601FE6A8FA00912CA3 /* Assets.xcassets */,
 				B31B16621FE6A8FA00912CA3 /* LaunchScreen.storyboard */,
@@ -145,6 +150,7 @@
 				B31B165C1FE6A8FA00912CA3 /* ViewController.m in Sources */,
 				B31B16671FE6A8FA00912CA3 /* main.m in Sources */,
 				B31B16591FE6A8FA00912CA3 /* AppDelegate.m in Sources */,
+				B31B166F1FE6AB8F00912CA3 /* test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
