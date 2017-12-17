@@ -14,6 +14,7 @@
 		B31B16641FE6A8FA00912CA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B31B16621FE6A8FA00912CA3 /* LaunchScreen.storyboard */; };
 		B31B16671FE6A8FA00912CA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B16661FE6A8FA00912CA3 /* main.m */; };
 		B31B166F1FE6AB8F00912CA3 /* test1.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B166E1FE6AB8F00912CA3 /* test1.m */; };
+		B31B16751FE6B34700912CA3 /* test3.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B16741FE6B34700912CA3 /* test3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		B31B16661FE6A8FA00912CA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B31B166D1FE6AB8F00912CA3 /* test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test1.h; sourceTree = "<group>"; };
 		B31B166E1FE6AB8F00912CA3 /* test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test1.m; sourceTree = "<group>"; };
+		B31B16731FE6B34700912CA3 /* test3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test3.h; sourceTree = "<group>"; };
+		B31B16741FE6B34700912CA3 /* test3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				B31B165B1FE6A8FA00912CA3 /* ViewController.m */,
 				B31B166D1FE6AB8F00912CA3 /* test1.h */,
 				B31B166E1FE6AB8F00912CA3 /* test1.m */,
+				B31B16731FE6B34700912CA3 /* test3.h */,
+				B31B16741FE6B34700912CA3 /* test3.m */,
 				B31B165D1FE6A8FA00912CA3 /* Main.storyboard */,
 				B31B16601FE6A8FA00912CA3 /* Assets.xcassets */,
 				B31B16621FE6A8FA00912CA3 /* LaunchScreen.storyboard */,
@@ -148,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B31B165C1FE6A8FA00912CA3 /* ViewController.m in Sources */,
+				B31B16751FE6B34700912CA3 /* test3.m in Sources */,
 				B31B16671FE6A8FA00912CA3 /* main.m in Sources */,
 				B31B16591FE6A8FA00912CA3 /* AppDelegate.m in Sources */,
 				B31B166F1FE6AB8F00912CA3 /* test1.m in Sources */,
