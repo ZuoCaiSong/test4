@@ -14,7 +14,11 @@
 		B31B16641FE6A8FA00912CA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B31B16621FE6A8FA00912CA3 /* LaunchScreen.storyboard */; };
 		B31B16671FE6A8FA00912CA3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B16661FE6A8FA00912CA3 /* main.m */; };
 		B31B166F1FE6AB8F00912CA3 /* test1.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B166E1FE6AB8F00912CA3 /* test1.m */; };
+<<<<<<< HEAD
 		B31B16751FE6B34700912CA3 /* test3.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B16741FE6B34700912CA3 /* test3.m */; };
+=======
+		B31B16721FE6B33600912CA3 /* test2.m in Sources */ = {isa = PBXBuildFile; fileRef = B31B16711FE6B33600912CA3 /* test2.m */; };
+>>>>>>> e9497d1c05fff7421a39c951d50e1b3237edede0
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +34,13 @@
 		B31B16661FE6A8FA00912CA3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B31B166D1FE6AB8F00912CA3 /* test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test1.h; sourceTree = "<group>"; };
 		B31B166E1FE6AB8F00912CA3 /* test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test1.m; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		B31B16731FE6B34700912CA3 /* test3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test3.h; sourceTree = "<group>"; };
 		B31B16741FE6B34700912CA3 /* test3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test3.m; sourceTree = "<group>"; };
+=======
+		B31B16701FE6B33600912CA3 /* test2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test2.h; sourceTree = "<group>"; };
+		B31B16711FE6B33600912CA3 /* test2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test2.m; sourceTree = "<group>"; };
+>>>>>>> e9497d1c05fff7421a39c951d50e1b3237edede0
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +77,8 @@
 				B31B16581FE6A8FA00912CA3 /* AppDelegate.m */,
 				B31B165A1FE6A8FA00912CA3 /* ViewController.h */,
 				B31B165B1FE6A8FA00912CA3 /* ViewController.m */,
+				B31B16701FE6B33600912CA3 /* test2.h */,
+				B31B16711FE6B33600912CA3 /* test2.m */,
 				B31B166D1FE6AB8F00912CA3 /* test1.h */,
 				B31B166E1FE6AB8F00912CA3 /* test1.m */,
 				B31B16731FE6B34700912CA3 /* test3.h */,
@@ -152,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B31B16721FE6B33600912CA3 /* test2.m in Sources */,
 				B31B165C1FE6A8FA00912CA3 /* ViewController.m in Sources */,
 				B31B16751FE6B34700912CA3 /* test3.m in Sources */,
 				B31B16671FE6A8FA00912CA3 /* main.m in Sources */,
